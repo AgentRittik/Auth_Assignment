@@ -2,8 +2,12 @@
 > This is the authentication service built using Node.js. The service comprises API endpoints facilitating user registration (sign-up) and authentication (login).
 
 
-
+## Demo Video : 
 https://github.com/AgentRittik/Auth_Assignment/assets/109760373/4bc8ab3f-dec8-48e3-8fd4-5eb9e25e34c1
+
+## Rate Limiting Video
+
+https://github.com/AgentRittik/Auth_Assignment/assets/109760373/204f6216-71c7-465f-bfe2-43280485578b
 
 
 
