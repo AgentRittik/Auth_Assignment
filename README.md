@@ -2,6 +2,11 @@
 > This is the authentication service built using Node.js. The service comprises API endpoints facilitating user registration (sign-up) and authentication (login).
 
 
+
+https://github.com/AgentRittik/Auth_Assignment/assets/109760373/4bc8ab3f-dec8-48e3-8fd4-5eb9e25e34c1
+
+
+
 ##  🚩 Technologies used:
 #### Programming Languages : <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 #### Version Control : <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  
